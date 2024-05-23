@@ -1,7 +1,7 @@
 	   ## Group Members
-# Name-------------# Id
+# Name-------------Id
 
-#1.Estifanos Ameha----------UGR/22663/13
+#1.Estifanos Ameha---------UGR/22663/13
 
 #2.Tofik Mifta---------------UGR/22717/13
 
